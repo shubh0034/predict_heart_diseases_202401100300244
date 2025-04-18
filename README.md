@@ -35,10 +35,10 @@ The dataset should be in CSV format. Each row represents a patient's medical rec
 - **Train-Test Split**: 80/20
 - **Metrics**:
   - Confusion Matrix (with heatmap)
-  - Accuracy
-  - Precision
-  - Recall
-  - F1 Score
+  - Accuracy :0.85
+  - Precision:0.83
+  - Recall    :0.88
+  - F1 Score  :0.85
 
 ---
 
